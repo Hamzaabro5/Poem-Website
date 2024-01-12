@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+/* li{
+    width: 200px;
+    display: inline-block;
+    padding-left: 240px;
+    padding-top: 40px;
+    font-size: larger;
+    font-weight: bold;
+} */
+h1{
+    display: inline-block;
+    padding-left: 170px;
+    padding-top: 30px;
+}
+div{
+    font-family: 'Pacifico', cursive;
+    padding-bottom: 30px;
+    background-color: #22181c;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 50px;
+}
+a{
+    color: #ef626c;
+    text-decoration: none;
+}
+a:hover{
+    color: #89CFF0;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 20px;
+    font-family: 'Pacifico', cursive;
+    font-style: italic;
+    color: teal;
+}
+span{
+    font-size: 150px;
+    color: #f71735;
+}
+p{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    font-weight: 600;
+    color: #001a70;
+}
+body{
+    background-image: url(./abstract-dense-green-waving-fog.jpg);
+}
